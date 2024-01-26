@@ -1,0 +1,4 @@
+module Imagemagick [system] {
+  header "Imagemagick.h"
+  export *
+}
